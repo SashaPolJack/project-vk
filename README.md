@@ -1,6 +1,6 @@
 # Используется fake api  с помощью https://my-json-server.typicode.com
 
-Файл с данными о группе равернут по адресу https://my-json-server.typicode.com/SashaPolJack/demo
+Файл с данными о группе равернут по адресу [https://my-json-server.typicode.com/SashaPolJack/demo](https://my-json-server.typicode.com/SashaPolJack/demo/groups)
 
 # Getting Started with Create React App
 

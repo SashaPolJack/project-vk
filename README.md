@@ -1,6 +1,3 @@
-# В проекте используется фейк api с помощью json-server
-
-Чтобы развернуть проект у себя нужно прописать сначала команду npm run server, а потом уже npm start
 
 # Getting Started with Create React App
 

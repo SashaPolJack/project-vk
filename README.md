@@ -1,3 +1,6 @@
+# Используется fake api  с помощью https://my-json-server.typicode.com
+
+Файл с данными о группе равернут по адресу https://my-json-server.typicode.com/typicode/demo
 
 # Getting Started with Create React App
 

@@ -1,4 +1,5 @@
 # Код доступен на google диске по ссылке https://drive.google.com/file/d/1W3HtSYoWpfn7Bq8DATDhN3BrJMipYVy7/view?usp=sharing
+Чтобы развернуть проект у себя нужно сначала прописать команду npm run server, чтобы запустить локальный сервер, а потом npm start и запустить приложение на другом порте
 # Deploy проекта находится в ветке gh-pages
 # Используется fake api  с помощью https://my-json-server.typicode.com
 
